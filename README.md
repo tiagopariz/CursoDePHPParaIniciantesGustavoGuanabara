@@ -15,3 +15,11 @@
 - Client-side: HTML, JavaScript, CSS...
 - Server-side: Apache, MySQL, PHP...
 - Wamp, Lamp ou Mamp
+
+## 03 Como instalar o PHP no Windows
+
+- Servidor: Xampp
+- Editor: PhpStorm, Notepad++, Sublime
+- Olá mundo!
+- Supertag <?php ?>
+
