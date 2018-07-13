@@ -51,3 +51,15 @@
 - Passa QueryString: url?a=3&b=2
 - Recupera QueryString: $n1 = $_GET["a"]
 - Funções matemáticas: abs, pow, sqrt, round, ceil, floor, intval e numberformat
+
+## 06 Operadores de atribuição
+
+- Sinal de igual: =
+- Simplificação: $c += 5, $c += $a ou $a .= $b
+- Incremento: $b++
+- Decremento: $b--
+- Tipos: $b++ (pós), ++$b (pré)
+- Operadores: +=, -=, *=, /=, %= e .=
+- Comentários: // ou # (inline), /* */ (multiline)
+- Por referência: $a = &$b;
+- Variáveis variantes: $b = "c", $$b = "d", então $c = "d"
