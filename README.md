@@ -42,3 +42,12 @@
 - PhpStorm: New file PHP alterar template
 - Concatenação: Usar . ou "";
 - Case sensitive: $Idade é diferente de $idade
+
+## 05 Operadores aritméticos
+
+- Soma: $n1 + $n2
+- Operadores: + (adição), - (subtração), * (multiplicação), / (divisão) e % (módulo)
+- Ordem de precedência: (), */%, +-
+- Passa QueryString: url?a=3&b=2
+- Recupera QueryString: $n1 = $_GET["a"]
+- Funções matemáticas: abs, pow, sqrt, round, ceil, floor, intval e numberformat
