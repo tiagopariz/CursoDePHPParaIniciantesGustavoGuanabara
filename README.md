@@ -70,3 +70,13 @@
 - Operador ternário: expressão ? verdadeiro : false
 - Operador de igual e do mesmo tipo: $a === $b
 - Operadores lógicos: and, &&, or, ||, xor e !
+
+## 08 Integração HTML 5 + PHP
+
+- Formulários: Método e ação
+- Ação: POST e GET
+- Inputs: text, submit
+- Enviando e recebendo: name="a", $_GET["a"] ou $_POST["a"]
+- Ano atual: date("Y")
+- Conferir se foi passado: isset()
+- Montar CSS dinamicamente
