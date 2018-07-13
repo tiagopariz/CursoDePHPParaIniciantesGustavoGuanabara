@@ -23,3 +23,22 @@
 - Olá mundo!
 - Supertag <?php ?>
 
+## 04 Variáveis
+
+- Linguagem de script
+- Requisitos: Algoritmos
+- comando echo: alusão a eco, pode usar a print ou printf
+- echo "Aceita texto e HTML <BR />"
+- Começam com sifrão $
+- Todas em letras minúsculas
+- Linha deve terminar com ponto e vírgula ";"
+- Não existe declaração, o tipo é inferido por coersão
+- Tipos: Inteiro, Real, Caractere e Lógico
+- Type cast de Inteiro: (int) ou (integer)
+- Type cast de Real: (real), (float) ou (double)
+- Type cast de Caractere: (string)
+- Type cast de Lógico: não tem
+- Lógico: true = 1 e false = vazio
+- PhpStorm: New file PHP alterar template
+- Concatenação: Usar . ou "";
+- Case sensitive: $Idade é diferente de $idade
