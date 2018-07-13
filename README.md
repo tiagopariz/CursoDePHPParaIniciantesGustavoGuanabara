@@ -63,3 +63,10 @@
 - Comentários: // ou # (inline), /* */ (multiline)
 - Por referência: $a = &$b;
 - Variáveis variantes: $b = "c", $$b = "d", então $c = "d"
+
+## 07 Operadores relacionais
+
+- Operadores de comparação: >, <, >=, <=, <>, !=, == e ===
+- Operador ternário: expressão ? verdadeiro : false
+- Operador de igual e do mesmo tipo: $a === $b
+- Operadores lógicos: and, &&, or, ||, xor e !
