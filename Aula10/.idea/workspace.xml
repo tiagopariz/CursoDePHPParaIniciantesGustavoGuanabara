@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="409b249f-83d0-4b6f-9355-10b665105e3d" name="Default" comment="" />
+    <list default="true" id="0c5a67ae-eded-4abe-b5d7-712b2a5fcf05" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
       <file leaf-file-name="03-exercicio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-exercicio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -23,8 +23,17 @@
       <file leaf-file-name="03-exercicio.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03-exercicio.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="544">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-exercicio.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-exercicio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="30" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -34,8 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File (Curso em video)" />
         <option value="PHP File + HTML (Curso em video)" />
+        <option value="HTML File (Curso em video)" />
+        <option value="PHP File with HTML" />
       </list>
     </option>
   </component>
@@ -43,11 +53,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01-exercicio.html" />
-        <option value="$PROJECT_DIR$/02-exercicio.html" />
         <option value="$PROJECT_DIR$/01-exercicio.php" />
         <option value="$PROJECT_DIR$/02-exercicio.php" />
-        <option value="$PROJECT_DIR$/03-exercicio.php" />
+        <option value="$PROJECT_DIR$/02-exercicio.html" />
         <option value="$PROJECT_DIR$/03-exercicio.html" />
+        <option value="$PROJECT_DIR$/03-exercicio.php" />
       </list>
     </option>
   </component>
@@ -73,18 +83,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Aula09" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aula09" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aula10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,23 +119,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="409b249f-83d0-4b6f-9355-10b665105e3d" name="Default" comment="" />
-      <created>1531711372763</created>
+      <changelist id="0c5a67ae-eded-4abe-b5d7-712b2a5fcf05" name="Default" comment="" />
+      <created>1531715078439</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531711372763</updated>
-      <workItem from="1531711374552" duration="3550000" />
+      <updated>1531715078439</updated>
+      <workItem from="1531715082583" duration="2541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3550000" />
+    <option name="totallyTimeSpent" value="2541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1222" y="0" width="705" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496124" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -155,43 +165,43 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01-exercicio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="289">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-exercicio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02-exercicio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-exercicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03-exercicio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="323">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-exercicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03-exercicio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="544">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
