@@ -80,3 +80,30 @@
 - Ano atual: date("Y")
 - Conferir se foi passado: isset()
 - Montar CSS dinamicamente
+
+## 09 Estrutura condicional if
+
+- Condições
+- if (...) {...} else {...}
+- Condição composta
+- if (cond1 && cond2) {...} else {if...}
+- if (cond1 && cond2) {...} elseif (...) {...}
+
+## 10 Estrutura condicional switch
+
+- switch ($op) { case 1 : echo "1"; case 2 : echo "2"; default : echo "d"; }
+
+## 11 Estrutura de repetição while - parte 1
+
+- while (true) {}
+- while (true) { break; }
+- while (true) { continue; }
+
+## 12 Estrutura de repetição do while - parte 2
+
+- do {} while (true);
+
+## 13 Estrutura de repetição for
+
+- for (c$ = 1; $c <= 10; $c++) {...}
+- print "$i ";
