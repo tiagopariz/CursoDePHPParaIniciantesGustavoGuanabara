@@ -107,3 +107,34 @@
 
 - for (c$ = 1; $c <= 10; $c++) {...}
 - print "$i ";
+
+## 14 Rotinas em PHP
+
+- Procedimento: function nome($param1, $param2) {...} 
+- Passagem de parâmetros por valor não altera a variável (padrão)
+- Passagem de parâmetros por referência altera a variável: use o & antes do nome do parâmetros
+- Por referência: function name(&$param) {...}
+- Rotinas externas: include "nomedoarquivo.php";
+- Chamando arquivos externos requeridos: require "nomedoarquivo.php";
+- Chamando arquivos externos sem repetir: include_once "nomedoarquivo.php";
+- Chamando arquivos externos requeridos sem repetir: require_once "nomedoarquivo.php";
+
+## 15 Funções string em PHP - parte 1
+
+- Manipular strings
+- "string", "1", ...
+- 25 funções
+- printf("%s texto %.2f)
+- String: %s
+- Float: %f ou %.2f
+- Decimal: %d ou %u
+- print_r($vetor), var_dump($vetor) e var_export($vetor)
+- wordwrap(texto, tamanho, quebra, quebrapalavra)
+- strlen($text)
+- trim($t), ltrim($t) e rtrim($t)
+- str_word_count($t, formato = 0 (palavras), 1 (array) e 2 (array com posições))
+- explode($t)
+- str_split($word)
+- implode($array) ou join($array)
+- chr(codigo) ou ord(letra)
+
