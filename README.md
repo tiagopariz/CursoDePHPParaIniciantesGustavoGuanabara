@@ -108,9 +108,15 @@
 - for (c$ = 1; $c <= 10; $c++) {...}
 - print "$i ";
 
-## 14 Rotinas em PHP
+## 14 Rotinas em PHP - parte 1
 
-- Procedimento: function nome($param1, $param2) {...} 
+- Procedimento: function nome($param1, $param2) {...}
+- Função: function nome($param1, $param2) { return $ret}
+- Argumentos em array: func_get_args()
+- Quantidade de argumentos: func_num_arg()
+
+## 15 Rotinas em PHP - parte 2
+
 - Passagem de parâmetros por valor não altera a variável (padrão)
 - Passagem de parâmetros por referência altera a variável: use o & antes do nome do parâmetros
 - Por referência: function name(&$param) {...}
@@ -119,7 +125,7 @@
 - Chamando arquivos externos sem repetir: include_once "nomedoarquivo.php";
 - Chamando arquivos externos requeridos sem repetir: require_once "nomedoarquivo.php";
 
-## 15 Funções string em PHP - parte 1
+## 16 Funções string em PHP - parte 1
 
 - Manipular strings
 - "string", "1", ...
@@ -137,4 +143,20 @@
 - str_split($word)
 - implode($array) ou join($array)
 - chr(codigo) ou ord(letra)
+
+
+## 17 Funções string em PHP - parte 2
+
+- Converte para minúsculas: strtolower($string)
+- Converte para maiúsculas: strtoupper($string)
+- A primeira letra capitalizada: ucfirst($string)
+- A primeira letra de cada palavra em maiúsculas: ucwords($string)
+- Reverter o texto: strrev($string)
+- Posição da primeira ocorrência: strpos($string, $termo)
+- Posição da primeira ocorrência ignorando o case: stripos($string, $termo)
+- Contar ocorrências: substr_count($string, $termo)
+- Retorna parte do texto: substr($string, $inicio, $tamanho)
+- Preenche: str_pad($string, $tamanho, $caractere, $direção)
+- Repete o texto: str_repeat($string, $vezes)
+- Substitui: str_replace($termo, $substituto, $string)
 
